@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(44,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(44,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(48,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(50,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(50,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(54,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(55,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(55,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(55,15): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  computer_graphics.vcxproj -> C:\Users\dleor\source\repos\computer_graphics\x64\Debug\computer_graphics.exe

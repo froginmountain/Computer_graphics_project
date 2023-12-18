@@ -1,0 +1,37 @@
+﻿  main.cpp
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(42,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(42,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(42,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(43,34): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(43,39): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(43,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(44,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(44,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(44,45): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(89,34): warning C4101: 'textureIndex' :참조되지 않은 지역 변수입니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(228,31): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(228,36): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(228,41): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(230,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(230,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(230,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(231,34): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(231,41): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(231,48): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(232,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(232,45): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(232,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(242,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(243,15): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(273,36): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(291,42): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(390,36): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(390,41): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(390,46): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(391,37): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(391,42): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(391,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(404,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(498,34): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\dleor\source\repos\computer_graphics\computer_graphics\main.cpp(507,28): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  computer_graphics.vcxproj -> C:\Users\dleor\source\repos\computer_graphics\Debug\computer_graphics.exe
